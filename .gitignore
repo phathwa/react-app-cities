@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+.pnp.cjs
+.pnp.loader.mjs
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Vite build output
+dist/
+.vite/
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional NPM cache directory
+.npm
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Trash folder which might appear on external disk
+.Trashes
+
+# macOS resource fork files
+._*
+
+# Temporary build files
+out/
