@@ -49,6 +49,7 @@ function App() {
       <hr />
       {cityInfoVisible && (
         <CityInfo selectedCity={selectedCity}>
+        
         </CityInfo>
       )}
     </div>
